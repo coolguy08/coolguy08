@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [dvds](dvds)
+- 👨‍💻 All of my projects are available at [github](https://github.com/coolguy08?tab=repositories)
 
 - 💬 Ask me about **mern**
 
