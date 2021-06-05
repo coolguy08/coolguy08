@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coolguy08" alt="csc" /></a> </p>
 
-- 🔭 I’m currently working on **Kalki**
+- 🔭 I’m currently working on **Musico**
 
 - 🌱 I’m currently learning **Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/coolguy08?tab=repositories)
 
-- 💬 Ask me about **mern**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **lovedeepsingh123.lk@gmail.com**
 
