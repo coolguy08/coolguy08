@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lavdeep Singh</h1>
-<h3 align="center">A Passionate fullstack developer from India</h3>
+<h3 align="center">A Passionate Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolguy08&label=Profile%20views&color=0e75b6&style=flat" alt="csc" /> </p>
 
@@ -8,8 +8,6 @@
 - 🔭 I’m currently working on **Musico**
 
 - 🌱 I’m currently learning **Competitive Programming**
-
-- 👨‍💻 All of my projects are available at [github](https://github.com/coolguy08?tab=repositories)
 
 - 💬 Ask me about **MERN Stack**
 
