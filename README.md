@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coolguy08" alt="csc" /></a> </p>
 
-- 🔭 I’m currently working on **Musico**
+- 🔭 I’m currently working as **Software Developer @Amazon**
 
 - 🌱 I’m currently learning **Competitive Programming**
 
